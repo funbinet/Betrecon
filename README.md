@@ -30,7 +30,7 @@ Divisions:
 ```
 BetRecon/
 ├─ betrecon.sh
-├─ banner.png
+├─ betrecon.png
 ├─ README.md
 └─ files/      # runtime output saved here
 ```
