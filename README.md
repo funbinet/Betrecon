@@ -17,7 +17,7 @@ Divisions:
 
 ---
 
-## What this README contains (MVP)
+## What this README contains
 - Full installation instructions (apt/snap/git/manual)  
 - How to obtain non‑apt dependencies (httpx, whatwaf, others)  
 - Usage examples, file paths, and output locations  
