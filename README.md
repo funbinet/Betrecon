@@ -2,7 +2,7 @@
 
 # 🧠 BetRecon — The Ultimate Terminal Recon Framework
 
-**Author:** BlackBet | Funbinet Ops  
+**Author:** Funbinet Ops  
 ---
 
 ## Overview
